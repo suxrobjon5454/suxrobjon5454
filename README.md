@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suxrob5454jon&label=Profile%20views&color=0e75b6&style=flat" alt="suxrob5454jon" /> </p>
-
+<p align="center">
+<img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> 
+ </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suxrob5454jon" alt="suxrob5454jon" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/suxrobjon5454" target="blank"><img src="https://img.shields.io/twitter/follow/suxrobjon5454?logo=twitter&style=for-the-badge" alt="suxrobjon5454" /></a> </p>
