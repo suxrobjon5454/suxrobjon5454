@@ -7,7 +7,7 @@
  </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suxrob5454jon" alt="suxrob5454jon" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/suxrobjon5454" target="blank"><img src="https://img.shields.io/twitter/follow/suxrobjon5454?logo=twitter&style=for-the-badge" alt="suxrobjon5454" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sheyx_o50" target="blank"><img src="https://img.shields.io/twitter/follow/suxrobjon5454?logo=twitter&style=for-the-badge" alt="suxrobjon5454" /></a> </p>
 
 - 🌱 I’m currently learning **Laravel, PHP**
 
@@ -23,13 +23,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/coder5454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="coder5454" height="30" width="40" /></a>
-<a href="https://twitter.com/suxrobjon5454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suxrobjon5454" height="30" width="40" /></a>
-<a href="https://fb.com/suxrobjon5454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suxrobjon5454" height="30" width="40" /></a>
-<a href="https://instagram.com/suxrobjon5454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suxrobjon5454" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/suxrobjon5454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="suxrobjon5454" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/codercrack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="codercrack" height="30" width="40" /></a>
-<a href="https://discord.gg/suxrobjon5454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="suxrobjon5454" height="30" width="40" /></a>
+<a href="https://dev.to/sheyx_o50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sheyx_o50" height="30" width="40" /></a>
+<a href="https://twitter.com/sheyx_o50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheyx_o50" height="30" width="40" /></a>
+<a href="https://fb.com/sheyx_o50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sheyx_o50" height="30" width="40" /></a>
+<a href="https://instagram.com/sheyx_o50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sheyx_o50" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sheyx_o50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sheyx_o50" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sheyx_o50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="codercrack" height="30" width="40" /></a>
+<a href="https://discord.gg/sheyx_o50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sheyx_o50" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
